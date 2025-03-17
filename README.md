@@ -1,3 +1,5 @@
+![banner](banner.jpg)
+
 # B.A. Umberger (Old Man Umby)
 _Gamer. Coder. Artist. Designer. Writer. Publisher. Tinkerer. Tobacconist._
 
