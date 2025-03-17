@@ -1,13 +1,8 @@
-<!---
-OldManUmby/OldManUmby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 # B.A. Umberger (Old Man Umby)
 _Gamer. Coder. Artist. Designer. Writer. Publisher. Tinkerer. Tobacconist._
 
-I'm based in Illinois, U.S. | See my portfolio at [my website](http://oldmanumby.com)
-<br>You can contact me directly at [me@oldmanumby.com](mailto:me@oldmanumby.com)
+[OldManUmby.com](http://oldmanumby.com) | [Tabletop.Ninja](http://tabletop.ninja) | [Grog.it.com](http://grog.it.com) | [Grog.Space](http://grog.space) | [Hack-n-Slash.Games](https://www.hack-n-slash.games) | [SRD.wiki](http://srd.wiki)
+<br>Contact me at [me@oldmanumby.com](mailto:me@oldmanumby.com)
 
 <p align="left"> <a href="https://www.github.com/oldmanumby" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/oldmanumby" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
