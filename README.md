@@ -62,7 +62,3 @@ Visit my games: [Unsafe.Games](http://unsafe.games)
 	<img width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="macOS" title="macOS"/>
 	<img width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/>
 </div>
-
----
-
-<a href="http://www.github.com/oldmanumby"><img src="https://github-readme-stats.vercel.app/api?username=oldmanumby&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="OldManUmby's GitHub Stats" /></a>
