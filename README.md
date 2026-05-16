@@ -3,7 +3,7 @@
 # B.A. Umberger (Old Man Umby)
 _Gamer. Coder. Artist. Designer. Writer. Editor. Publisher. Tinkerer. Carnivore._
 
-<img width="100" alt="Static Badge"  src="https://img.shields.io/badge/DM_Since-1980-b22c00?style=plastic&labelColor=#000000"/> 
+<img width="100" alt="Static Badge"  src="https://img.shields.io/badge/DM_Since-1980-b22c00?style=plastic&labelColor=%23000000"/> 
 
 
 Visit my games: [Unsafe.Games](http://unsafe.games)
