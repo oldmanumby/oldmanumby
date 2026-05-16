@@ -5,10 +5,9 @@ _Gamer. Coder. Artist. Designer. Writer. Editor. Publisher. Tinkerer. Carnivore.
 
 <img alt="DM since 1980"  src="https://img.shields.io/badge/Dungeon_Master-1980-red?style=for-the-badge&labelColor=%23000000"/> <img alt="Gulf Vet"  src="https://img.shields.io/badge/Veteran-Gulf_War-blue?style=for-the-badge&labelColor=%23000000"/> <img alt="Married 1984"  src="https://img.shields.io/badge/Husband-1984-gold?style=for-the-badge&labelColor=%23000000"/>  <img alt="Father 1985"  src="https://img.shields.io/badge/Father-1985-pink?style=for-the-badge&labelColor=%23000000"/> <img alt="Grandfather 2006"  src="https://img.shields.io/badge/Grandfather-2006-blue?style=for-the-badge&labelColor=%23000000"/> <img alt="Grandchildren 8"  src="https://img.shields.io/badge/Grandchildren-8-silver?style=for-the-badge&labelColor=%23000000"/> 
 
-Visit my games: [Unsafe.Games](http://unsafe.games)
-<br>Visit me at [OldManUmby.com](http://oldmanumby.com)
-<br>View SRDs at [SRD.OldManUmby.com](http://srd.oldmanumby.com)
-<br>Contact me at [me@oldmanumby.com](mailto:me@oldmanumby.com)
+Publications: [Unsafe.Games](http://unsafe.games)
+<br>Gaming: [OldManUmby.com](http://oldmanumby.com)
+<br>Contact: [me@oldmanumby.com](mailto:me@oldmanumby.com)
 
 <p align="left"> <a href="https://www.github.com/oldmanumby" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/oldmanumby" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
