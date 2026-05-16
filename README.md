@@ -3,7 +3,7 @@
 # B.A. Umberger (Old Man Umby)
 _Gamer. Coder. Artist. Designer. Writer. Editor. Publisher. Tinkerer. Carnivore._
 
-<img width="100" src="https://img.shields.io/badge/DM_Since-1980-b22c00" title="shield"/> 
+<img width="100" src="https://img.shields.io/badge/DM_Since-1980-b22c00?style=plastic" title="shield"/> 
 <img alt="Static Badge" src="https://img.shields.io/badge/dm-since-1980?style=plastic&logoSize=auto&label=DM%20Since&labelColor=%23000000&color=%23b22c00">
 
 
