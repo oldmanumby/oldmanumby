@@ -3,7 +3,7 @@
 # B.A. Umberger (Old Man Umby)
 _Gamer. Coder. Artist. Designer. Writer. Editor. Publisher. Tinkerer. Carnivore._
 
-<img alt="DM since 1980"  src="https://img.shields.io/badge/Dungeon_Master-1980-b22c00?style=plastic&labelColor=%23000000"/> <img alt="DM since 1980"  src="https://img.shields.io/badge/Dungeon_Master-1980-b22c00?style=plastic&labelColor=%23000000"/> 
+<img alt="DM since 1980"  src="https://img.shields.io/badge/Dungeon_Master-1980-b22c00?style=plastic&labelColor=%23000000"/> <img alt="DM since 1980"  src="https://img.shields.io/badge/Veteran-Gulf_War-b22c00?style=plastic&labelColor=%23000000"/> 
 
 Visit my games: [Unsafe.Games](http://unsafe.games)
 <br>Visit me at [OldManUmby.com](http://oldmanumby.com)
