@@ -5,10 +5,7 @@ gamer. coder. artist. designer. writer. editor. tinkerer. carnivore.
 
 <img alt="DM since 1980" src="https://img.shields.io/badge/Dungeon_Master-1980-red?style=for-the-badge&labelColor=%23000000"/> <img alt="Gulf Vet" src="https://img.shields.io/badge/Veteran-Gulf_War-blue?style=for-the-badge&labelColor=%23000000"/> <img alt="Married 1984" src="https://img.shields.io/badge/Husband-1984-gold?style=for-the-badge&labelColor=%23000000"/>  <img alt="Father 1985" src="https://img.shields.io/badge/Father-1985-pink?style=for-the-badge&labelColor=%23000000"/> <img alt="Grandfather 2006" src="https://img.shields.io/badge/Grandfather-2006-blue?style=for-the-badge&labelColor=%23000000"/>
 
-[Unsafe.Games](http://unsafe.games)
-<br>[My Site](http://oldmanumby.com)
-<br>[Fund Me](http://me.oldmanumby.com)
-<br>[Contact Me](mailto:me@oldmanumby.com)
+[Visit Unsafe.Games](http://unsafe.games) | [Visit My Website](http://oldmanumby.com) | [Fund My Projects](http://me.oldmanumby.com) | [Contact Form](https://contact.oldmanumby.com)
 
 <p align="left"> <a href="https://www.github.com/oldmanumby" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/oldmanumby" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
